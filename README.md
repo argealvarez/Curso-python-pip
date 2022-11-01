@@ -12,6 +12,7 @@ py main.py
 ```sh
 git clone
 cd app
+Py -m venv venv
 .\venv\scripts\activate
 Pip install –r requeriments.txt
 py main.py
